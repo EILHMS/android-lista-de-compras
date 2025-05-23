@@ -1,5 +1,5 @@
-Nome: Lucas Henrique de Melo Silva
-Turma: 3 sir
+Nome: Lucas Henrique de Melo Silva-
+Turma: 3 sir-
 Rm: 550175
 -------------------------------------------
 # Lista de Compras – App Android com Kotlin
